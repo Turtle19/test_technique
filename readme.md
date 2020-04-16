@@ -14,7 +14,7 @@ la puissance en fonction du temps, dans une page web.
 Technologies utilisées
 ======================
 
-Php, ChartJs, postgreSql + serveur webtp
+Php, SQL, ChartJs, postgreSql + serveur webtp
 
 Recupération des scripts
 ========================
